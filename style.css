@@ -4,8 +4,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    text-height: 50px;
-    text-width: 50px;
+    text-shadow: 0.1em 0.1em 0.15em #007bff;
 }
 
 header {
@@ -36,7 +35,7 @@ section {
 }
 
 footer {
-    background-color: #007BFF;
+    background-color: #4169e1;
     color: #fff;
     text-align: center;
     padding: 10px;
